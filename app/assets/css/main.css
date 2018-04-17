@@ -1444,8 +1444,7 @@ Modify as content requires.
   }
 
   .has-sidebar {
-    padding-right: 20em;
-    box-sizing: border-box;
+    display: flex;
   }
 
   .main-menu {
