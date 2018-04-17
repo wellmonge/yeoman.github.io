@@ -3,6 +3,10 @@
   padding: 20px;
   display: flex;
   color: #fff;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  left: 0;
 }
 
 .SiteFooter-donation {
